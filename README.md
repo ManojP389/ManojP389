@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Manojj <br><br>Computer Science Student  <br>Passionate about AI, Machine Learning & Blockchain  <br>Building real-world projects and exploring new technologies 
+# Hi there, I'm Manojj <br><br>Computer Science Student  <br>Passionate about AI, Machine Learning,Data Science,Data Analytics & Blockchain  <br>Building real-world projects and exploring new technologies 
 
 
 ## 🌐 Socials:
