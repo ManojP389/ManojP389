@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Manoj Kumar<br><br>Computer Science Student  <br>Passionate about AI, Machine Learning & Blockchain  <br>Building real-world projects and exploring new technologies  <br><br>---<br><br>## Skills<br>- Python, C, Java  <br>- Machine Learning (SVM, Classification)  <br>- Blockchain & Smart Contracts  <br>- Git & GitHub  <br><br>---<br><br>## Current Projects<br>- Customer Support Chatbot  <br>-Smart Agricultural System<br>- MOI Vault (Hackathon Project)  <br><br>---<br><br>## GitHub Stats<br>![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManojP389&show_icons=true&theme=tokyonight)<br><br>---<br><br>## Connect with Me<br>- Email: manojroyal389@gmail.com  <br>- LinkedIn: www.linkedin.com/in/manojjp<br><br><br><br>---<br><br>Always learning and building!
+# Hi there, I'm Manoj Kumar<br><br>Computer Science Student  <br>Passionate about AI, Machine Learning & Blockchain  <br>Building real-world projects and exploring new technologies 
 
 
 ## 🌐 Socials:
